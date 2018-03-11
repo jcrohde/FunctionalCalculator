@@ -1,0 +1,67 @@
+Copyright (C) 2015 - 2018 Jan Christian Rohde
+
+This file is part of FunctionalCalculator. FunctionalCalculator is free
+software; you can redistribute it and/or modify it under the terms of the
+GNU General Public License as published by the Free Software Foundation;
+either version 3 of the License, or (at your option) any later version.
+
+FunctionalCalculator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General
+Public License for more details.
+
+You should have received a copy of the GNU General Public License along
+with FunctionalCalculator. If not, see http://www.gnu.org/licenses/.
+
+
+                           EXECUTE
+
+FunctionalCalculator is written in Java 1.8 and the .jar file should be
+directly executable or it should be able to be made executable depending
+on your operating system. For example if you use Linux, you might need to
+insert in your terminal:
+
+cd ".../FunctionalCalculator"
+sudo chmod 777 functionalcalculator.jar
+
+It is necessary to have installed a Java Runtime Environment to use this
+program.
+
+
+                           GENERAL INFORMATION
+
+FunctionalCalculator is a Mathematical program, which calculates with
+functions and which is designed to be functional in the sense of
+convenience and usability. It is designed to be as easy to run as a hand-
+held calculator. The goal of the project is a neat tool covering the
+Mathematics at university level and advanced high-school level.
+
+FunctionalCalculator has 75 User-Functions and boolean / comparision
+operators. The User-Functions can have arguments given by matrices,
+infinitely differentiable functions, complex numbers or arbitrary
+precision integers. Among the User-Functions you find for example:
+
+* The integral of f(x) from a to b
+* The derivative of f(x)
+* The Ternary Conditional
+* The gcd of two integers
+* Solve a System of Linear Equations
+
+FunctionalCalculator has a plotter for complex functions and a plotter
+for real functions. FunctionalCalculator has a Grammar. Thus you can
+store variables and compose and combine several operations and User-
+functions. In particular you can define your own recursive (meta)
+functions by using the Ternary Conditional.
+
+Moreover FunctionalCalculator has a functional and procedural scripting
+language using its grammar. You should get some example scripts with this
+release of FunctionalCalculator.
+
+FunctionalCalulator uses the mathematical libraries colt and apaches
+common-math3. Moreover apaches common-lang3 is used.
+
+
+                           REPORTING BUGS
+
+If you find a bug in FunctionalCalculator, please make sure to tell us
+about it! Report bugs to jan-christian.rohde@gmx.de.
