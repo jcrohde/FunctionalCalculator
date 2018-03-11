@@ -59,9 +59,3 @@ release of FunctionalCalculator.
 
 FunctionalCalulator uses the mathematical libraries colt and apaches
 common-math3. Moreover apaches common-lang3 is used.
-
-
-                           REPORTING BUGS
-
-If you find a bug in FunctionalCalculator, please make sure to tell us
-about it! Report bugs to jan-christian.rohde@gmx.de.
